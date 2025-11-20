@@ -1,0 +1,7 @@
+{
+  "name": "Ganesh Studio",
+  "description": "Event Photo Finder & Cloud Backup using AI Face Recognition",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
